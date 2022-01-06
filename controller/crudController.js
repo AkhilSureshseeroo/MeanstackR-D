@@ -7,6 +7,7 @@ const getusers=(req,res)=>{
       })
       
       
+      
     //  res.json({data:[]})
 }
 const getuserbyId=(req,res)=>{
